@@ -1,6 +1,7 @@
 import json
 import os
 
+
 DB_FILE = "accounts.json"
 
 def load_data():
