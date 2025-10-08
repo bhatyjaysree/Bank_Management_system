@@ -4,7 +4,9 @@ import os
 DB_FILE = "accounts.json"
 
 def load_data():
-    if not os.path.exists(DB_FILE):
+    if not (os
+
+            .path.exists(DB_FILE)):
         return []
     with open(DB_FILE, "r") as f:
         return json.load(f)

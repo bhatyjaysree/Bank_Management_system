@@ -8,5 +8,10 @@
         "account_no": "1234",
         "name": "shraddha",
         "balance": 20000000.0
+    },
+    {
+        "account_no": "1203",
+        "name": "park",
+        "balance": 2000.0
     }
 ]
